@@ -11,8 +11,7 @@ This project simulates the complete A/B testing lifecycle for a gaming subscript
 - **Experiment Design Tools**: Sample size calculators, power analysis, MDE estimation
 - **Statistical Analysis**: t-tests, z-tests, chi-square, Bayesian methods
 - **Advanced Techniques**: CUPED variance reduction, sequential testing, multi-armed bandits
-- **Interactive Dashboards**: Plotly visualizations for stakeholder communication
-- **Production-Ready Code**: Type hints, docstrings, unit tests
+- **Interactive Dashboards (coming soon)**: Plotly visualizations for stakeholder communication
 
 ## Quick Start
 
@@ -25,7 +24,7 @@ cd gaming_analytics_ab_testing
 pip install -r requirements.txt
 
 # Run example experiment
-python src/run_experiment.py
+python run_pricing_experiment.py
 ```
 
 ## Glossary
