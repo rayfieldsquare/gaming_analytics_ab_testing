@@ -2,19 +2,19 @@
 
 A comprehensive Python framework for designing, running, and analyzing A/B tests for gaming subscription services. Built to demonstrate production-grade experimentation capabilities for streaming/subscription businesses.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project simulates the complete A/B testing lifecycle for a gaming subscription service (similar to Xbox Game Pass or PlayStation Plus), with direct applicability to anyone trying to learn these strategies.
 
 ### Key Features
 
-- ✅ **Experiment Design Tools**: Sample size calculators, power analysis, MDE estimation
-- ✅ **Statistical Analysis**: t-tests, z-tests, chi-square, Bayesian methods
-- ✅ **Advanced Techniques**: CUPED variance reduction, sequential testing, multi-armed bandits
-- ✅ **Interactive Dashboards**: Plotly visualizations for stakeholder communication
-- ✅ **Production-Ready Code**: Type hints, docstrings, unit tests
+- **Experiment Design Tools**: Sample size calculators, power analysis, MDE estimation
+- **Statistical Analysis**: t-tests, z-tests, chi-square, Bayesian methods
+- **Advanced Techniques**: CUPED variance reduction, sequential testing, multi-armed bandits
+- **Interactive Dashboards**: Plotly visualizations for stakeholder communication
+- **Production-Ready Code**: Type hints, docstrings, unit tests
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
